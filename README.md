@@ -16,3 +16,6 @@ What will TriglavOS have ?
 - I hope one day a graphical environnement.
 
 WORK IN PROGRESS
+
+Current state :
+32 Bits protected mode, GDT implementation.
